@@ -1,2 +1,18 @@
-# study-notes
-study-notes 学习笔记
+## study-notes 学习读书笔记
+
+《计算机组成原理》
+
+- 计算机系统概述
+- 数据表示和运算
+- 存储系统
+- 指令系统
+
+《操作系统》
+
+《计算机网络》
+
+《编译原理》
+
+《ElasticSearch实战与原理解析》
+
+《ElasticSearch源码解析与优化实战》
